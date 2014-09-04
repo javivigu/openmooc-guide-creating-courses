@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{content:0,index:0,modul:0,search:0,page:0},objtypes:{},objnames:{},filenames:["index"],titles:["OpenMOOC Guide: Creating Courses"],objects:{},titleterms:{cours:0,welcom:[],openmooc:0,indic:0,creat:0,tabl:0,guid:0,document:[]}})
