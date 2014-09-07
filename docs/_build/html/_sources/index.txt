@@ -12,6 +12,7 @@ Contents:
    :numbered:
    :maxdepth: 2
 
+   readme
    permission_to_create_a_course
    naming_the_course
    course_page
