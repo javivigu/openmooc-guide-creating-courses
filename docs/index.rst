@@ -14,10 +14,7 @@ Contents:
 
    permission_to_create_a_course
    naming_the_course
-   course_information
+   course_page
    course_teachers
    course_units
    categories
-   course_index
-   course_view
-   pill_view

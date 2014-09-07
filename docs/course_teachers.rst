@@ -8,33 +8,35 @@ Course teachers
 Overview
 *******************
 
-You can add a Discussion component to a unit, to pose a question related to the
-Unit and give students a chance to respond and interact.
+The user who creates the course is by default the owner but, he can
+transfer the ownership to another course teacher.
+
+.. image:: _static/3_course_teachers-1.png
+ :alt: Owner of the course
+
+The owner user can add additional teachers to the course, forming the
+teaching staff of the course.
+
+To add a teacher, can be searched by name or by email and if not yet a user of the platform,
+you will be sent an invitation to register. The teacher who is invited to join the team of a
+course always receive an email about it.
 
 
-*****************************
-Create a Discussion Component
-*****************************
+*********************************
+Steps to add teachers to a course
+*********************************
 
-#. Under **Add New Component**, click **Discussion**.
+#. Select the user to add like a new teacher of the course.
 
-#. In the Discussion component that appears, click **Edit**.
+   .. image:: _static/3_course_teachers-2.png
+    :alt: Selecting new teacher
 
-   .. image:: _static/1_create_course-1.png
-    :alt: Image of the discussion component with the Edit button circled
+#. The user you added is listed and you get a message from the platform like ``Success: The teacher has been added to the course or invited``.
 
-#. When the Discussion component editor opens, follow the guidelines in the
-   editor to fill in the **Category**, the optional **Display Name**, and the
-   **Subcategory** fields.
+   .. image:: _static/3_course_teachers-3.png
+    :alt: Entering the course name
 
-   .. image:: _static/2_create_course-2.png
-    :alt: Image of the discussion component editor with a category of "Getting Graded" and a subcategory of "Answering More Than Once"
+#. If you want to transfer the ownership you can do it new because there are more than one teacher in the course staff.
 
-   The value in the **Display Name** field identifies the discussion in the
-   course content. The values in the **Category** and **Subcategory** fields
-   appear in the list of discussion topics on the **Discussion** page. To
-   uniquely identify the discussion in your course, each **Category** /
-   **Subcategory** pair that you supply must be unique.
-
-   .. image:: _static/3_create_course-3.png
-    :alt: The list of discussions with the "Answering More Than Once" topic indented under "Getting Graded"
+   .. image:: _static/3_course_teachers-4.png
+    :alt: Entering the course name

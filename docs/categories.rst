@@ -8,33 +8,42 @@ Categories
 Overview
 *******************
 
-You can add a Discussion component to a unit, to pose a question related to the
-Unit and give students a chance to respond and interact.
+The categories are like a tags and a course can be in multiple categories
 
+``https://demo.openmooc.org/category/cat1/``
+
+.. image:: _static/5_categories-0a.png
+ :alt: Category web page
+
+You can add more categories in the URL to filter a group of them like
+
+``https://demo.openmooc.org/category/cat1/cat2/cat3``
+
+Categories and the URL scheme used by OpenMOOC are very useful to be used to
+promote the course and is optimal for search engine.
+
+OpenMOOC not have categories by default, you must create them as an administrator to assign it to a course.
 
 *****************************
-Create a Discussion Component
+Adding categories to a course
 *****************************
 
-#. Under **Add New Component**, click **Discussion**.
+#. You can add categories to the course. Some categories only can be added by the platform administrator.
 
-#. In the Discussion component that appears, click **Edit**.
+   .. image:: _static/5_categories-1.png
+    :alt: Adding categories to the course
 
-   .. image:: _static/1_create_course-1.png
-    :alt: Image of the discussion component with the Edit button circled
+*********************
+Organization web page
+*********************
 
-#. When the Discussion component editor opens, follow the guidelines in the
-   editor to fill in the **Category**, the optional **Display Name**, and the
-   **Subcategory** fields.
+Some categories are used to group classes of an organization.
+These categories can only be assigned to a course by the platform administrators.
 
-   .. image:: _static/2_create_course-2.png
-    :alt: Image of the discussion component editor with a category of "Getting Graded" and a subcategory of "Answering More Than Once"
+``https://demo.openmooc.org/category/organization1/``
 
-   The value in the **Display Name** field identifies the discussion in the
-   course content. The values in the **Category** and **Subcategory** fields
-   appear in the list of discussion topics on the **Discussion** page. To
-   uniquely identify the discussion in your course, each **Category** /
-   **Subcategory** pair that you supply must be unique.
+.. image:: _static/5_categories-0b.png
+ :alt: Organization web page
 
-   .. image:: _static/3_create_course-3.png
-    :alt: The list of discussions with the "Answering More Than Once" topic indented under "Getting Graded"
+In this way, you get the organization page on the platform, with the list of courses.
+The thumbnail image, the short description and start date will be shown for each course listed.

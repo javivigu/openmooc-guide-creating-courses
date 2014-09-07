@@ -1,5 +1,0 @@
-.. toctree::
-   :maxdepth: 2
-
-   permission_to_create_a_course
-   naming_the_course

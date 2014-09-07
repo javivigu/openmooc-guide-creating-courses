@@ -10,9 +10,9 @@ Overview
 
 Only administrators of the platform can do this operation. It's necessary that the administrator gives permission to create courses to an user, manually on request by email.
 
-******************************************************
-Steps to give permission to the user as course creator
-******************************************************
+*****************************************************
+Steps to give permission to an user as course creator
+*****************************************************
 
 #. Click **login** to enter the platform. You must be an administrator of the platform to do the following.
 
