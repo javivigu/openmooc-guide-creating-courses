@@ -33,7 +33,7 @@ Homework and exam are limited in time, with a start and end time.
 ====
 Pill
 ====
-A **pill** consist of:
+A **pill** (or nugget) consist of:
 
 * One online video from Youtube or Vimeo (or prezi or scribd content) like central content.
 * Comments by the teacher to clarify some thing exposed in the video.
@@ -45,9 +45,9 @@ You can add forms or peer review tasks to a pill.
 .. note:: The optimal use is adding some questions to normal units (not in all the pills) and
    not use peer review. It's better the use of peer review in homework units.
 
-*****************************
-Creating the course structure
-*****************************
+*********************
+Adding the first unit
+*********************
 
 When you know the three levels of content with which OpenMOOC works, you can create the course structure.
 To create the structure you need to click on **Units**.
@@ -78,47 +78,104 @@ To create the structure you need to click on **Units**.
    .. image:: _static/4_course_units-6.png
     :alt: Empty unit
 
-#. Now, you need to add a pill or nugget by clicking **Add nugget** button. Fill the title for the pill, select the online video server to use (p.e. Youtube), copy the URL for the video resource and paste it in the **Content id or url** text box. Finally, fill the text areas **Supplementary material** and **Instructor's comments**, and click **save** button.
+
+*************
+Adding a pill
+*************
+
+Now, you need to add a pill or nugget by clicking **Add nugget** button. Fill the title
+for the pill, select the online video server to use (p.e. Youtube), copy the URL for the video resource
+and paste it in the **Content id or url** text box. Finally, fill the text areas **Supplementary material**
+and **Instructor's comments**, and click **save** button.
 
    .. image:: _static/4_course_units-7.png
     :alt: Entering a new pill
 
-#. Do the same and you will see two pill into the Unit.
+Do the same and you will see two pill into the Unit.
 
    .. image:: _static/4_course_units-8.png
     :alt: Two pills unit
 
-#. To add a question to an existing pill, you have to click on the **Edit** button. When you get the pill form, push the **Save changes and add a question to this nugget** button.
+
+************************
+Building a questionnaire
+************************
+
+To add a question to an existing pill, you have to click on the **Edit** button. When you get the pill form,
+push the **Save changes and add a question to this nugget** button.
 
    .. image:: _static/4_course_units-9a.png
     :alt: Editing an existing pill to add a question
 
-#. The statement is always a video for a questionary, but not for peer review. You can use a blank canvas or the last frame if you're using for the stamment a Youtube video. You have to add question's solution like an online video (Youtube, Vimeo, Prezi or Scribd) or a text solution.
+The statement is always a video for a questionary, but not for peer review. You can use a blank canvas or the
+last frame if you're using for the stamment a Youtube video. You have to add question's solution like an online
+video (Youtube, Vimeo, Prezi or Scribd) or a text solution.
 
    .. image:: _static/4_course_units-9b.png
     :alt: Creating a new question form
 
-#. OpenMOOC has a powerfull forms builder to open the possibilities of creating questions on a blank canvas or the last frame from a Youtube video. You can drag items out of the canvas form if you wish to remove. The form is automatically saved.
+OpenMOOC has a powerfull forms builder to open the possibilities of creating questions on a blank canvas or the
+last frame from a Youtube video. You can drag items out of the canvas form if you wish to remove. The form is
+automatically saved.
 
    .. image:: _static/4_course_units-10.png
     :alt: Forms builder
 
-#. To create a peer review task you have to click on the **Edit** button of a pill and then, click on the **Save changes and add a peer review assingnment to this nugget**.
+
+*********************************
+Creating a peer review assessment
+*********************************
+
+To create a peer review task you have to click on the **Edit** button of a pill and then, click on the
+**Save changes and add a peer review assingnment to this nugget**.
 
    .. image:: _static/4_course_units-11.png
     :alt: Adding a peer review assignment
 
-#. You have to add an assignment description and the minimum number of reviewers needed. Every student needs to send his peer assignment and review the minimun number of assignments from others students. It's an anonymous process.
+You have to add an assignment description and the minimum number of reviewers needed. Every student needs to send
+his peer assignment and review the minimun number of assignments from others students. It's an anonymous process.
 
    .. image:: _static/4_course_units-12a.png
     :alt: Peer review assignment creation, description and minimun number of reviewers
 
-#. Finally, you need to add some criteria to evaluate the work from other students. Every student will recieve the review tasks in a inbox into a panel named **Reviews**.
+Finally, you need to add some criteria to evaluate the work from other students. Every student will receive the
+review tasks in a inbox into a panel named **Reviews**.
 
    .. image:: _static/4_course_units-12b.png
     :alt: Adding criteria to evaluate peer assignment
 
-#. This is the unit with pills you just created
+
+*******************************
+You've created your first unit!
+*******************************
+
+This is the unit with pills you just created
 
    .. image:: _static/4_course_units-13.png
     :alt: Unit view with pills just created
+
+Congratulations!, now you can continue with the rest of normal units, homework and exams, it's easy!.
+
+****************
+Reordering units
+****************
+
+When you are near to finish the process of building the course, is normal to reorder the units to
+improve the course to publish.
+
+Is very easy in OpenMOOC: drag & drop the units:
+
+#. Drag the unit you want to move, by clicking on the gray area marked in the figure below.
+
+   .. image:: _static/4_course_units-14.png
+    :alt: Drag the unit to move it
+
+#. Drop it where you want, the area where you can drop the unit turns yellow.
+
+   .. image:: _static/4_course_units-15.png
+    :alt: Drop the unit where you want
+
+#. And finally you have reordered the course
+
+   .. image:: _static/4_course_units-16.png
+    :alt: Drop the unit where you want
